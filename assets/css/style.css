@@ -1,0 +1,41 @@
+.main {
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+    margin-left: 500px;
+    margin-top: 50px;
+    padding: 30px;
+
+    margin: auto;
+}
+
+.container {
+
+
+    background-color: darkgreen;
+    max-width: 580px;
+    height: 580px;
+    margin-top: 12px;
+    margin-left: 12px;
+
+
+}
+
+.reg {
+    text-align: center;
+}
+
+.yazi {
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.label{color: aqua; margin-left: 40px;}
+
+input{width: 80%; height: 25px; margin-left: 40px}
+.asagi{
+margin-top: 30px;
+}
+
+
+
+
